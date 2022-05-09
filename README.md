@@ -26,7 +26,7 @@ This project is to implement a MIPS ISA assembler. The assembler is the tool tha
 
 
 
-The detailed information regarding instructions is in the attached MIPS green sheet page (in `/assets`).
+The detailed information regarding instructions is in the attached [MIPS green sheet page](https://github.com/solangii/MIPS-Assembler/blob/main/assets/MIPS_Green_Sheet.pdf).
 
 
 
